@@ -33,7 +33,7 @@ export const FarmerDashboard = () => {
       <div className="gradient-nature rounded-xl p-8 text-white">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between">
           <div className="space-y-2">
-            <h2 className="text-3xl font-bold">Good morning, Sarah!</h2>
+            <h2 className="text-3xl font-bold">Good morning, user!</h2>
             <p className="text-white/90">Your crops are thriving. Here's today's insights.</p>
           </div>
           
